@@ -1,0 +1,100 @@
+.img {
+  border: 4px solid darkgray;
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'UnifrakturCook', cursive;
+  background-image: url("https://images7.alphacoders.com/296/296900.jpg");
+  background-size: cover;
+  background: url("https://i.pinimg.com/originals/1e/70/8d/1e708dc980dd65483f5d9e804566c82f.jpg");
+  background-size: cover;
+
+  
+}
+
+
+
+h1, h3 {
+  color: lightgray;
+  text-shadow: 5px 5px 5px black;
+  
+}
+
+
+
+.lop {
+  border: 3px solid darkgray;
+  height: 325px;
+  width: 325px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("https://thumbs.dreamstime.com/b/medieval-wooden-background-old-metal-44305791.jpg");
+  background-size: cover;
+
+}
+
+.lop:hover {
+  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxvOGppd3UxeGR4Y3lpdzE4OWV6bzFqZ29yODNhazJnZzEyeW1tOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHTbmxxUW6Lxm/giphy.gif");
+
+}
+
+
+
+.llop {
+  border: 3px solid darkgray;
+  height: 325px;
+  width: 325px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("https://thumbs.dreamstime.com/b/medieval-wooden-background-old-metal-44305791.jpg");
+  background-size: cover;
+
+}
+
+.llop:hover {
+  background-image: url("https://3.bp.blogspot.com/-_s82XGCS6EU/VugD6SxKQzI/AAAAAAAAAXg/BSJTvs_V6jo67wT7cqfQmbhukxmtlU4cw/s1600/greek-god-body_phixr.jpg");
+
+}
+
+
+
+
+.lllop {
+  border: 3px solid darkgray;
+  height: 325px;
+  width: 325px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("https://thumbs.dreamstime.com/b/medieval-wooden-background-old-metal-44305791.jpg");
+  background-size: cover;
+
+}
+
+.lllop:hover {
+  background-image: url("https://th.bing.com/th/id/OIP.2d1mPMJpKMMGhzIVg8K2rQAAAA?pid=ImgDet&rs=1");
+
+}
+
+
+
+
+
+.iop {
+  display: flex;
+  flex-direction: row;
+  
+  justify-content: space-evenly;
+}
+
+.m {
+  height: 480px;
+  border: 4px solid lightgray; 
+}
